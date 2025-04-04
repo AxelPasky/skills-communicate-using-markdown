@@ -8,3 +8,7 @@ $word = "Hello";
 echo $word;
 ?>
 ```
+
+- [x] I used correct items
+- [x] I understand
+- [ ] Cat conquiest the world
